@@ -24,9 +24,9 @@
       -to: to date (YYYYMMDD)
       -k: news keyword
 
-      python news-scraper.py -og=방송/통신 -o=1109,1079 -from=20200202 -to=20200205 -k="야구"
-      python news-scraper.py -o=1109,1079 -o=1109,1079 -from=201901102 -to=20200205 -k="날씨 | 미세먼지"
-      python news-scraper.py -og=경제/IT -o=1109,1079 -from=20130101 -to=20200205 -k="금리 인상"
+        python news-scraper.py -og=방송/통신 -o=1109,1079 -from=20200202 -to=20200205 -k="야구"
+        python news-scraper.py -o=1109,1079 -o=1109,1079 -from=201901102 -to=20200205 -k="날씨 | 미세먼지"
+        python news-scraper.py -og=경제/IT -o=1109,1079 -from=20130101 -to=20200205 -k="금리 인상"
 
   ![run_git](https://user-images.githubusercontent.com/22663614/74081564-c260e780-4a93-11ea-94bc-2574f560f3ca.gif)
 
