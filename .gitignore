@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/python,images
-# Edit at https://www.gitignore.io/?templates=python,images
+# Created by https://www.gitignore.io/api/video,python,images
+# Edit at https://www.gitignore.io/?templates=video,python,images
 
 ### Images ###
 # JPEG
@@ -172,4 +172,19 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# End of https://www.gitignore.io/api/python,images
+### Video ###
+*.3g2
+*.3gp
+*.asf
+*.asx
+*.avi
+*.flv
+*.mov
+*.mp4
+*.mpg
+*.rm
+*.swf
+*.vob
+*.wmv
+
+# End of https://www.gitignore.io/api/video,python,images
